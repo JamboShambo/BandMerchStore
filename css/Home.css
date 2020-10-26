@@ -1,0 +1,164 @@
+/*colours
+#1A1A1D Blackgrey
+#4E4E50 Grey
+#6F2232 dull red
+#950740 dark purple
+#C3073F poping red
+border-right: groove 0.5em #C3073F;
+    border-left: groove 0.5em #C3073F;
+*/
+
+@media only screen and (min-width: 768px) {
+  
+    section
+{
+    background-color: #4E4E50;
+    float: right;
+    width: 50%;
+   
+}
+#aside1
+{
+    float: left;
+    height: 100%;
+    width:50%;
+    background-color: #4E4E50;
+    border-right: groove 0.5rem #C3073F;
+}
+    
+}/* end of screen changes*/
+
+html
+{
+    font-size:100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    max-width: 960px;
+    margin: auto;
+    border-right: groove 0.5em #C3073F;
+    border-left: groove 0.5em #C3073F;
+    background: rgb(75,5,33);
+    background: radial-gradient(circle, rgba(75,5,33,1) 0%, rgba(0,0,0,1) 100%);
+}
+
+#fullNav
+{
+    background-color: #1A1A1D;
+}
+body
+{
+    font-family: "Roboto";
+    align-content: center;
+    background-color: #4E4E50;
+}
+main
+{
+    background-color: #4E4E50;
+}
+#nav1,#nav2,#nav3,#nav4,#nav5,#nav6
+{
+    color: white;
+    margin: 5px;
+}
+#cartButt
+{
+    
+}
+
+#navBurger
+{
+    background-color:white;
+}
+
+#popularH1
+{
+    background-color: #1A1A1D;
+    text-align:center; color: white; 
+    font-style:oblique;
+    border-bottom: groove 0.5rem #C3073F;
+      
+}
+#popularBox
+{
+    float: right;
+    height: 80%;
+    width: 100%;
+    background-color: #4E4E50;
+    border-top: groove 0.5rem #C3073F;
+    border-bottom: groove 0.5rem #C3073F;
+}
+
+#clothsImg1
+{
+    padding-bottom:;
+    width: 50%;
+}
+
+#toursHeading
+{
+    background-color: #1A1A1D;
+    text-align:center; color: white; 
+    font-weight:;
+    font-style:oblique;
+    border-bottom: groove 0.5rem #C3073F;
+}
+footer
+{
+    padding-left: 3em;
+    padding-right: 3em;
+    float: left;
+    width: 100%;
+    color: white;
+    background-color: #1A1A1D;
+    border-top: groove 0.5em #C3073F;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+
+
+
